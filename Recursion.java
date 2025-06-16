@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class Recursion {
 
     static int factroial(int x){
-        int total = 1;
-        if(x == 1){
-            return total;
+        // int total = 1;
+        if(x <= 1){
+            return 1;
         }
         
-        total *= x;
+        // total *= x;
         // x--;
-        return factroial(x-1);
+        return x*factroial(x-1);
 
     }
     static public void main(String[] args){
