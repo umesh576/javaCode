@@ -1,4 +1,3 @@
-import  java.util.Scanner;
 public class Umesh {
     public static void main(String[] args){
         int x = 20;
