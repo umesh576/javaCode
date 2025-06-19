@@ -14,5 +14,5 @@ public class Qn{
         System.out.print("Enter your Marks: ");
         marks=sc.nextInt();
         System.out.println("Name: " + name + " RollNo: "+ rollNo + " Marks: " + marks);
-    }
+        sc.close();}
 }
