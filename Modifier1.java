@@ -6,6 +6,7 @@ public class Modifier1 {
         Modifier1 md1 = new Modifier1();
         System.out.println(md1.x);
 
+        
     }
     
 }
