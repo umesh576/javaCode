@@ -1,6 +1,5 @@
 package polymorphism;
 
-import polymorphism.Animal;
 
 
 public class Test {
