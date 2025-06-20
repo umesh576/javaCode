@@ -1,3 +1,4 @@
+package javaLearn;
 public class CMethod {
     public void hello(){
         System.out.println("Good morning");

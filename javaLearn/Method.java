@@ -1,3 +1,4 @@
+package javaLearn;
 public class Method {
 
     static void sum(int x, int y){

@@ -1,3 +1,4 @@
+package javaLearn;
 public class ClassMethod {
 
     public void message(){

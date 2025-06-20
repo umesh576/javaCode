@@ -1,3 +1,4 @@
+package javaLearn;
  class  Car {
      void detail(){
         System.out.println("Every car have three wheel and one straing.");
