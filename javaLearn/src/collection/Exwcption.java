@@ -8,6 +8,8 @@ public class Exwcption {
     } catch (Exception e) {
       System.out.println("Something went wrong.");
       System.out.println(e);
+    }finally{
+      System.out.println("hello");
     }
   }
 }
