@@ -1,4 +1,4 @@
-
+package execption;
 public class Exwcption {
   public static void main(String[ ] args) {
     try {
